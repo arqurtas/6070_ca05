@@ -15,5 +15,5 @@ IMDB Rating = 7.2, Biography = Yes, Drama = Yes, Thriller = No, Comedy = No, Cri
 
 - Libraries Required:
 
-Pandas library (pip install pandas)
-Scikit-learn library (pip install scikit-learn)
+    - Pandas library (pip install pandas)
+    - Scikit-learn library (pip install scikit-learn)
